@@ -6,13 +6,11 @@
 <h3 align="left">I'm Backend Developer
 </h3>
 
-- 🔭 I’m currently working on **freelance.**
+- I’m currently working on **freelance.**
 
-- 🌱 I’m currently learning **Codeigniter and Laravel**
+- I’m currently learning **Codeigniter and Laravel**
 
-- 💬 Ask me about **Python, PHP and JavaScript**
-
-- 📫 How to reach me **leaverdev@gmail.com**
+- How to reach me **leaverdev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
