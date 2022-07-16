@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **freelance.**
 
-- 🌱 I’m currently learning **Node JS and Java**
+- 🌱 I’m currently learning **Codeigniter and Laravel**
 
 - 💬 Ask me about **Python, PHP, JavaScript**
 
