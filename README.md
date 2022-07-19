@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Talha</h1>
+<p width="400">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=talhatugsat&show_icons=true&locale=en" alt="talhatugsat" />
-
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=talhatugsat&" alt="talhatugsat" />
-
+</span>
 <h3 align="left">I'm Backend Developer
-</h3>
+</p>
 
 - I’m currently working on **freelance.**
 
